@@ -1,16 +1,4 @@
 # textscanspeech
 
-A new Flutter project.
+![text](https://postfiles.pstatic.net/MjAyMzEyMDdfMjE1/MDAxNzAxOTI4NTU1OTM3.12OXmrU4K30sEF1nT4OdfuKJuGM9jDvxS4Yft5qY0EYg.FUlORUDljcG4FvG2KslIWEXJTNCgY4SjbfyyyCplOOAg.PNG.umm0714/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001_(3).png?type=w966)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
